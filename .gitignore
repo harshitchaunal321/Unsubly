@@ -1,0 +1,69 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+build/
+dist/
+
+# MacOS system files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Testing coverage
+coverage/
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+
+# Optional yarn files
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# React Native / Expo
+.expo/
+.expo-shared/
+
+# Parcel-bundler cache
+.cache/
+
+# ESLint cache
+.eslintcache
+
+# npm lock files
+package-lock.json
+yarn.lock
+
+# Optional: Uncomment if you want to ignore all lock files (usually not recommended)
+# *.lock
+
+# MacOS Thumbnails
+.AppleDouble
+.LSOverride
